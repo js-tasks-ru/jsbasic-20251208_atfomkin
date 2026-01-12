@@ -33,5 +33,3 @@ function initCarousel() {
     }
   });
 }
-
-initCarousel();

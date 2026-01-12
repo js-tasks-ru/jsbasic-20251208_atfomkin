@@ -5,5 +5,3 @@ function hideSelf() {
     button.hidden = true;
   });
 }
-
-hideSelf();
